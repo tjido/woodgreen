@@ -2,15 +2,12 @@
 Fireside Analytics has developed a data science program for Woodgreen Community Services.
 
 Summer Camp: Data Science & Python:
-Commencing: August 2020, TBC
-Grades 10 – 12 (no pre-requisites and prior knowledge of computer programming is required)
-Contract deliverables:
-4 semesters, each with 6 lesson of 1 hour each, 24 sessions in total
-Lesson duration: 1 hour
-Marketing, logistics and registration – Woodgreen to advise
-Online delivery
-Fast/convenient method: video calls with students via Microsoft Teams/Google/ Zoom
-− Google Colab will be used if all participants have Gmail or google accounts
+
+// Commencing: August 2020, TBC
+
+// Grades 10 – 12 (no pre-requisites and prior knowledge of computer programming is required)
+
+// Lesson duration: 1 hour
 
 Lesson 1: Introduction to Data Science
 − Survey Tutorial: learner generated data
