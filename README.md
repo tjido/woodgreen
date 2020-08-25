@@ -18,11 +18,11 @@ Lesson duration: 1 hour
 
 • Lesson 3: Introduction to Python
 − Turtle Tutorial
-− Guest speaker: Python Programmer
+− Guest speaker: Management Consultant
 
 • Lesson 4: Logic and patterns in code
 − Stars and stripes tutorial
-− Guest speaker: Data Scientist
+− Guest speaker: Googler
 
 • Lesson 5: Interpreting data
 − Analysis tutorial (record yourself giving a talk about your data analysis)
