@@ -1,33 +1,25 @@
 # Woodgreen
 Fireside Analytics has developed a data science program for Woodgreen Community Services.
 
-Summer Camp: Data Science & Python:
-
-Commencing: August 2020, TBC
-
 Grades 10 – 12 (no pre-requisites and prior knowledge of computer programming is required)
 
 Lesson duration: 1 hour
 
-• Lesson 1: Introduction to Data Science
-− Survey Tutorial: learner generated data
+Lesson 1: Introduction to Data Science 
+Assignment 1: Survey tutorial with learner generated data
 
-• Lesson 2: Introduction to Python
-− Charts and plotting survey data
-− Guest speaker: Data Scientist
+Lesson 2: Introduction to Python 
+Assignment 2: Introduction to Python programming (Turtle)
 
-• Lesson 3: Introduction to Python
-− Turtle Tutorial
-− Guest speaker: Management Consultant
+Lesson 3: Python basics
+Assignment 3: Turtle in Colab
 
-• Lesson 4: Logic and patterns in code
-− Stars and stripes tutorial
-− Guest speaker: Googler
+Lesson 4: Bias and Ethics
+Assignment 4: More Python
 
-• Lesson 5: Interpreting data
-− Analysis tutorial (record yourself giving a talk about your data analysis)
-− Guest speaker: Industry/ Business Professional
+Lesson 5: Uploading files in Python
+Assignment 5: Working with survey data in Python
 
-• Lesson 6: Data in action - reporting/ analysis and data driven decision-making
-− Present your analysis
-− Guest judging panel
+Lesson 6: Capstone Project
+Collect survey data and visualize it in Python
+
