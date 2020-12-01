@@ -1,0 +1,91 @@
+Timestamp,(1) What is your first name?,(2) How old are you?,(3) Do you know how a computer works?,(4) Do you know what data science is?,(5) What do you mainly use the internet for?,(6) What technology job do you think is exciting?,(7) How good are your data analysis skills?,(8) Any additional comments regarding data analysis or data science?
+8/14/2019 12:39,Raj,27,Yes,Yes,Paid Professional work,Game Designer,4,Data is the new oil
+8/22/2019 12:40,Dave,34,Yes,No,Games,Data Scientist,3,Future for everyone
+8/26/2019 12:41,Bill,32,No,Yes,Movies or TV,Programmer,3,Big data
+9/22/2019 12:42,Monica,29,Yes,Yes,School Work,Developer,4,I like data
+9/26/2019 12:42,David,44,No,No,Socializing,App developer,2,I like cyber security
+10/1/2019 12:49,David,24,Yes,No,Games,Developer,4,Data is the new oil
+10/6/2019 12:39,Henry,35,Yes,Yes,Socializing,Graphic Designer,1,
+8/14/2019 12:39,Gopi,25,Yes,No,Paid Professional work,UI/UX Designer,1,Future for everyone
+8/22/2019 12:40,Raja,32,Yes,No,Paid Professional work,Angular,3,Big data
+8/26/2019 12:41,Gary,45,No,Yes,Games,Data Scientist,4,I like data
+9/22/2019 12:42,Sham,25,No,No,Games,Data Scientist,4,
+9/26/2019 12:42,Ravi,42,Yes,Yes,Socializing,Data Scientist,4,I like data
+10/1/2019 12:49,Mani,21,Yes,Yes,Paid Professional work,Analyst,4,
+8/14/2019 12:39,Bala,31,Yes,No,School Work,Analyst,3,Big data
+8/22/2019 12:40,Minisha,51,Yes,No,Socializing,Programmer,3,
+8/26/2019 12:41,Garry,42,Yes,No,Movies or TV,Architect,3,I like data
+9/22/2019 12:42,Monica,43,Yes,No,Movies or TV,Developer,3,Big data
+9/26/2019 12:42,Raju,24,Yes,No,Movies or TV,Developer,,I like data
+10/1/2019 12:49,Kamu,43,No,No,Paid Professional work,Graphic Designer,1,
+10/8/2019 12:39,Kambu,34,Yes,No,Paid Professional work,Graphic Designer,1,
+10/22/2019 12:39,Ravicha,47,No,No,Games,Web Designer,2,
+11/12/2019 12:39,Gopu,46,Yes,No,Paid Professional work,Web Designer,1,Big data
+11/22/2019 12:39,Ballan,45,No,No,Games,Cloud Computing,3,
+12/26/2019 12:39,Henry,23,No,No,Socializing,Cloud Computing,3,
+12/2/2019 12:39,Gopi,24,Yes,No,Socializing,Google Cloud Plaform,3,I like data
+1/22/2020 12:39,Raja,26,Yes,No,Paid Professional work,Azure,,
+1/28/2020 12:39,Gary,27,Yes,Yes,,Amazon Web Service,4,
+1/31/2020 12:39,Sham,28,Yes,Yes,Paid Professional work,Google Cloud Plaform,4,
+2/7/2020 12:39,Ravi,29,Yes,Yes,Games,Web Designer,,
+10/1/2019 12:49,Mani,38,No,Yes,Socializing,Azure,4,
+10/8/2019 12:39,Bala,36,Yes,Yes,Socializing,Azure,5,Big data
+10/22/2019 12:39,Minisha,37,No,Yes,Paid Professional work,Amazon Web Service,4,
+11/12/2019 12:39,Garry,42,No,Yes,Paid Professional work,Angular,3,Big data
+11/22/2019 12:39,Monica,21,No,Yes,School Work,Architect,3,
+12/26/2019 12:39,Raju,31,No,Yes,Games,Architect,3,
+12/2/2019 12:39,Kamu,51,No,Yes,School Work,Angular,3,
+1/22/2020 12:39,Kambu,42,Yes,No,Paid Professional work,Data Scientist,5,
+1/28/2020 12:39,Ravicha,43,Yes,Yes,Games,Data Scientist,,
+1/31/2020 12:39,Gopu,24,No,No,Paid Professional work,Data Scientist,5,Big data
+2/7/2020 12:39,Ballan,43,Yes,Yes,School Work,Data Analyst,3,
+10/1/2019 12:49,Henry,34,No,No,School Work,Data Analyst,4,
+10/8/2019 12:39,Gopi,47,No,Yes,Movies or TV,Analyst,3,
+10/22/2019 12:39,Raja,46,Yes,No,Games,Amazon Web Service,4,
+11/12/2019 12:39,Gary,45,Yes,Yes,School Work,Amazon Web Service,5,
+11/22/2019 12:39,Sham,23,Yes,No,Socializing,Graphic Designer,1,Big data
+12/26/2019 12:39,Ravi,24,Yes,Yes,Socializing,UI/UX Designer,2,
+12/2/2019 12:39,Mani,26,Yes,Yes,School Work,Analyst,3,
+1/22/2020 12:39,Bala,27,Yes,Yes,Games,Data Scientist,5,
+1/28/2020 12:39,Minisha,28,No,Yes,Paid Professional work,Game Designer,1,
+1/31/2020 12:39,Garry,29,No,Yes,School Work,Game Designer,1,Big data
+2/7/2020 12:39,Monica,38,No,Yes,Games,Data Scientist,3,
+10/1/2019 12:49,Raju,36,Yes,Yes,Paid Professional work,Game Designer,1,
+10/8/2019 12:39,Kamu,37,No,Yes,Socializing,Game Designer,,
+10/22/2019 12:39,Kambu,42,Yes,Yes,School Work,Data Scientist,4,I like data
+11/12/2019 12:39,Ravicha,21,Yes,Yes,Paid Professional work,Game Designer,2,
+11/22/2019 12:39,Gopu,31,,Yes,Paid Professional work,Game Designer,3,
+12/26/2019 12:39,Ballan,51,,Yes,School Work,Data Scientist,3,
+12/2/2019 12:39,Henry,42,Yes,Yes,Paid Professional work,Data Scientist,4,
+1/22/2020 12:39,Gopi,43,Yes,Yes,Games,Game Designer,5,
+1/28/2020 12:39,Raja,24,No,Yes,,Data Scientist,4,
+1/31/2020 12:39,Gary,43,No,Yes,School Work,Game Designer,5,I like data
+2/7/2020 12:39,Sham,34,No,Yes,Paid Professional work,Game Designer,5,
+10/1/2019 12:49,Ravi,47,No,Yes,Socializing,Data Scientist,4,
+10/8/2019 12:39,Mani,46,No,Yes,Socializing,Amazon Web Service,4,
+10/22/2019 12:39,Bala,45,Yes,Yes,Socializing,Amazon Web Service,4,
+11/12/2019 12:39,Minisha,23,,Yes,Games,Data Scientist,4,
+11/22/2019 12:39,Garry,24,,Yes,Paid Professional work,Amazon Web Service,,
+12/26/2019 12:39,Monica,26,Yes,Yes,Games,Data Scientist,4,
+12/2/2019 12:39,Raju,27,Yes,Yes,Socializing,Amazon Web Service,5,Future for everyone
+1/22/2020 12:39,Kamu,28,Yes,Yes,School Work,Data Scientist,4,Future for everyone
+1/28/2020 12:39,Kambu,29,No,No,Paid Professional work,Analyst,4,Future for everyone
+1/31/2020 12:39,Ravicha,38,Yes,No,Socializing,Data Scientist,4,
+2/7/2020 12:39,Gopu,36,Yes,No,,Analyst,2,
+10/1/2019 12:49,Ballan,37,Yes,No,Paid Professional work,Azure,1,
+10/8/2019 12:39,Henry,42,Yes,No,Games,Data Scientist,5,
+10/22/2019 12:39,Gopi,21,No,No,Movies or TV,Google Cloud Plaform,5,
+11/12/2019 12:39,Raja,31,,No,Movies or TV,Google Cloud Plaform,4,
+11/22/2019 12:39,Gary,51,Yes,No,Movies or TV,Data Scientist,5,Future for everyone
+12/26/2019 12:39,Sham,42,Yes,No,Games,Graphic Designer,,Future for everyone
+12/2/2019 12:39,Ravi,43,No,No,Paid Professional work,Data Scientist,3,
+1/22/2020 12:39,Mani,24,No,No,Socializing,Data Scientist,4,I like data
+1/28/2020 12:39,Bala,43,Yes,No,Games,Web Designer,,
+1/31/2020 12:39,Minisha,34,Yes,Yes,Socializing,UI/UX Designer,1,
+2/7/2020 12:39,Garry,47,Yes,Yes,Movies or TV,Data Scientist,3,Future for everyone
+10/1/2019 12:49,Monica,46,Yes,No,Paid Professional work,Data Scientist,4,
+10/8/2019 12:39,Raju,45,Yes,Yes,Socializing,Analyst,4,
+10/22/2019 12:39,Kamu,23,Yes,No,Games,Data Analyst,,I like Data
+11/12/2019 12:39,Kambu,24,No,Yes,Paid Professional work,Data Analyst,5,Future for everyone
+11/22/2019 12:39,Ravicha,26,No,No,Socializing,Data Scientist,3,
+12/26/2019 12:39,Gopu,27,Yes,Yes,Paid Professional work,Data Scientist,5,Future for everyone
